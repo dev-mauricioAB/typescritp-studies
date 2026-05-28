@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev": "npx tsx src/index.ts",
+    "check": "npx tsc -p . --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  }
+}
