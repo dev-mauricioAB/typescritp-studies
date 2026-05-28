@@ -20,5 +20,4 @@ t3.obj.c = 12
 
 // t2.obj.c = 7
 
-
 console.log({t1,t2, t3})
